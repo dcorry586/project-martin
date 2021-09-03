@@ -2,8 +2,11 @@ A website demostraing my comprehension and abilities using the PHP Laravel frame
 
 
 / = home page
+<br/>
 /about = about page
+<br/>
 /contact = contact page
+<br/>
 
 -------------
 
